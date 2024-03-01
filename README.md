@@ -24,7 +24,7 @@ Two pop up windows:
 **The terminal displays the following**:
  - The frame which is currently being read and the coordinates of the corners of the sheet of paper in that frame.
 
-# For plotting graphs directly uncomment the corners
-# Have stored the co-ordinates from all the frames in a list obtained by once running the code
+### For plotting graphs directly uncomment the corners
+### Have stored the co-ordinates from all the frames in a list obtained by once running the code
 
 3. A detailed report of the entire project is given in ***report.pdf***  
